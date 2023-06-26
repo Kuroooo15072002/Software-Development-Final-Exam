@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Table] ([AdSID], [AdSFullName], [AdSDateOfBirth], [AdSSex], [AdSAddress], [AdSEmail], [AdSPhone], [AdSExamResult], [AdSChoice]) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)

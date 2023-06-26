@@ -1,0 +1,13 @@
+D:\AdmissionMng\Admission\bin\Debug\Admission.exe.config
+D:\AdmissionMng\Admission\bin\Debug\Admission.exe
+D:\AdmissionMng\Admission\bin\Debug\Admission.pdb
+D:\AdmissionMng\Admission\obj\Debug\Admission.csproj.AssemblyReference.cache
+D:\AdmissionMng\Admission\obj\Debug\Admission.csproj.SuggestedBindingRedirects.cache
+D:\AdmissionMng\Admission\obj\Debug\Admission.Properties.Resources.resources
+D:\AdmissionMng\Admission\obj\Debug\Admission.csproj.GenerateResource.cache
+D:\AdmissionMng\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+D:\AdmissionMng\Admission\obj\Debug\Admission.exe
+D:\AdmissionMng\Admission\obj\Debug\Admission.pdb
+D:\AdmissionMng\Admission\obj\Debug\Admission.Home.resources
+D:\AdmissionMng\Admission\obj\Debug\Admission.AdS.resources
+D:\AdmissionMng\Admission\obj\Debug\Admission.Login.resources
